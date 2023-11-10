@@ -1,19 +1,26 @@
-<h2 align="left">Hi👋! My name is Pedro!</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+</p>
 
-###
-
-<p align="left">I currently work with technical support and am migrating to full stack development</p>
+<p align="left">Hi👋! My name is Pedro! <br>I currently work with technical support and am migrating to full stack development</p>
 
 ###
 
 <h2 align="left">📈  Some Code Stats</h2>
 
 ###
+<img src="https://komarev.com/ghpvc/?username=pedrozun&label=Visits">
+<!--START_SECTION:waka-->
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrozun)](https://github.com/anuraghazra/github-readme-stats)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%201%20min-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrozun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrozun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!--END_SECTION:waka-->
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrozun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ </div>
 
 ###
 
@@ -59,6 +66,8 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
