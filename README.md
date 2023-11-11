@@ -3,7 +3,6 @@
 </p>
 
 <p align="left">Hello!👋 My name is Pedro! <br>I currently work with technical support and am migrating to full stack development</p>
-
 ###
 
 <h2 align="left">📈  Some Code Stats</h2>
