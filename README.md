@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">📈  Some Code Stats</h2>
-
+Eu amo a Bruna
 ###
 <img src="https://komarev.com/ghpvc/?username=pedrozun&style=for-the-badge&label=Visits">
 
