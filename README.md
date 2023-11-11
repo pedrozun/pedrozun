@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
 
-<p align="left">Hi👋! My name is Pedro! <br>I currently work with technical support and am migrating to full stack development</p>
+<p align="left">Hello!👋 My name is Pedro! <br>I currently work with technical support and am migrating to full stack development</p>
 
 ###
 
