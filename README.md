@@ -8,9 +8,15 @@
 
 <h2 align="left">📈  Some Code Stats</h2>
 
-<img src="https://komarev.com/ghpvc/?username=pedrozun&style=for-the-badge&label=Visits">
+<img src="https://komarev.com/ghpvc/?username=pedrozun&style=for-the-badge&label=Visits"/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrozun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pedrozun&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrozun&show_icons=true" />
+</picture>
 </div>
 
 ###
