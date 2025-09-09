@@ -60,6 +60,8 @@ Other        3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img src="https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="vbnet logo" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="aspnet logo" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo" />
+
   
 </div>
 
