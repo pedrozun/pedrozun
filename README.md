@@ -11,7 +11,6 @@ Desenvolvedor full stack no Rio de Janeiro. São 13 anos de TI, do suporte e da 
 - **ERP corporativo** em ASP.NET WebForms, VB.NET e SQL Server: principal desenvolvedor, com CI/CD no Azure DevOps e as regras do banco versionadas no Git.
 - **Intranet e extranet** em React, TypeScript, Ant Design e Node.js, com Socket.io e Redis.
 - **Boleto e Pix** pelas APIs do Itaú e do Santander, com OAuth2 e mTLS.
-- **Back-end dos apps Android** da empresa, em Node.js e SQL Server.
 - **Ferramentas do laboratório:** criação e restauração de imagens de disco (Python com biblioteca nativa em C/C++) e atualização de BIOS Dell e Lenovo (C# NativeAOT com Electron).
 - **Servidores MCP** que dão a assistentes de IA acesso somente leitura ao ERP.
 
