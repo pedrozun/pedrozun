@@ -4,7 +4,7 @@
 
 ## Olá! Eu sou o Pedro
 
-Desenvolvedor full stack no Rio de Janeiro. São 13 anos de TI, do suporte e da infraestrutura ao desenvolvimento de sistemas. Hoje cuido do ERP, da intranet, das integrações bancárias e das ferramentas do laboratório na K&M Service, e uso IA no dia a dia (Claude Code e servidores MCP que eu mesmo escrevi).
+Desenvolvedor full stack no Rio de Janeiro. São 13 anos de TI, do suporte e da infraestrutura ao desenvolvimento de sistemas. Hoje cuido do ERP, da intranet, das integrações bancárias e das ferramentas do laboratório na K&M Service, e uso IA no dia a dia (Claude Code e servidores MCP que eu mesmo escrevi). Mais detalhes no meu [portfólio](https://pedrozun.github.io/portfolio/).
 
 ## No que eu trabalho
 
@@ -76,7 +76,8 @@ VB.NET       2 hrs 31 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## Contato
 
-<div align="left"><a href="https://discordapp.com/users/199640431934308353" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<div align="left"><a href="https://pedrozun.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=githubpages&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" /></a>
+  <a href="https://discordapp.com/users/199640431934308353" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:pedrozuner@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
